@@ -1,0 +1,26 @@
+[
+    {
+        "p_id":150,
+        "p_name":"Television",
+        "p_quantity":2,
+        "p_price":20000
+    },
+    {
+        "p_id":250,
+        "p_name":"AC",
+        "p_quantity":4,
+        "p_price":50000
+    },
+    {
+        "p_id":350,
+        "p_name":"Fridge",
+        "p_quantity":2,
+        "p_price":40000
+    },
+    {
+        "p_id":450,
+        "p_name":"Bed",
+        "p_quantity":1,
+        "p_price":60000
+    }
+]
